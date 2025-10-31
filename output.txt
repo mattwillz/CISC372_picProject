@@ -1,0 +1,9 @@
+Script started on Fri Oct 31 15:43:08 2025
+]0;mwillz@r1n06.darwin:~/CISC372_picProject[?1034h[mwillz@r1n06 CISC372_picProject]$ THREADS=4 ./image_pthreads pic1.jpg edge
+Took 2 seconds
+]0;mwillz@r1n06.darwin:~/CISC372_picProject[mwillz@r1n06 CISC372_picProject]$ ./image_openmp pic1.jpg edge
+Took 3 seconds
+]0;mwillz@r1n06.darwin:~/CISC372_picProject[mwillz@r1n06 CISC372_picProject]$ exit
+exit
+
+Script done on Fri Oct 31 15:43:40 2025
